@@ -1,4 +1,4 @@
-#Building Large Language Model Powered Applications
+##Building Large Language Model Powered Applications
 
 This repository contains code and presentation materials for the course "Building Large Language Model Powered Applications."
 
