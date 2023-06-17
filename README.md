@@ -7,11 +7,11 @@ This course aims to provide a comprehensive understanding of developing applicat
 Course Overview
 In this course, you will learn how to leverage the power of large language models to build sophisticated and intelligent applications. We will explore various topics, including: <br>
 
--Introduction to large language models and their capabilities
--Understanding the GPT-3.5 architecture and its applications
--Data preprocessing and cleaning for language model training
--Fine-tuning techniques for domain-specific applications
--Best practices for training and deploying large language models
--Handling input and generating output from language models
--Evaluating and measuring the performance of language models
--Optimizing performance and resource utilization
+-Introduction to large language models and their capabilities <br>
+-Understanding the GPT-3.5 architecture and its applications <br>
+-Data preprocessing and cleaning for language model training <br>
+-Fine-tuning techniques for domain-specific applications <br>
+-Best practices for training and deploying large language models <br>
+-Handling input and generating output from language models <br>
+-Evaluating and measuring the performance of language models <br>
+-Optimizing performance and resource utilization <br>
